@@ -16,7 +16,9 @@ Product Management: View and filter products whilst fetching real-time data from
 
 Shopping Cart: Users can add and remove products to/from their cart with instant updates.
 
-Responsive Design: Optimized for various screen sizes, offering a mobile-friendly experience.
+Responsive Design: Optimized for various screen sizes using Tailwind CSS, offering a mobile-first, responsive layout.
+
+Image Hosting with Cloudinary: Product images are uploaded and served via Cloudinary, providing fast and responsive image delivery.
 
 Deployment: Hosted on Render, ensuring high availability and scalability for all users.
 
