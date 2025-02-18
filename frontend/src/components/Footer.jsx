@@ -28,7 +28,7 @@ const Footer = () => {
           <p className='text-xl font-medium mb-5'>CONTACT US</p>
           <ul className='flex flex-col gap-1 text-gray-600'>
             <li>+61-421-333-777</li>
-            <li>Contact@Ethereal.com</li>
+            <li>Sababa.dev@Ethereal.com</li>
           </ul>
         </div>
 
@@ -37,6 +37,7 @@ const Footer = () => {
       <div>
         <hr />
         <p className='py-5 text-sm text-center'>Copyright 2024@Ethereal.com - All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Made with 💖 by Sababa</p>
       </div>
 
     </div>
