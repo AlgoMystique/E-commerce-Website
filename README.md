@@ -54,6 +54,13 @@ Responsive Design:
 
 ## Screenshots
 
+![ethereal](screenshot/2.png)
+![ethereal](screenshot/3.png)
+![ethereal](screenshot/4.png)
+![ethereal](screenshot/5.png)
+![ethereal](screenshot/6.png)
+![ethereal](screenshot/7.png)
+
 ## Project Structure
 
 ```
