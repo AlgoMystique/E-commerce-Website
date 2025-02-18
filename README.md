@@ -71,10 +71,7 @@ ethereal-apparel/
 │   │   └── index.js           # Entry point
 ├── server/                    # Express backend
 │   ├── models/                # MongoDB models (User, Product, etc.)
-│   ├── resolvers/             # GraphQL resolvers
-│   ├── schemas/               # GraphQL schemas
 │   ├── server.js              # Express server setup
-│   └── utils/                 # Helper functions (authentication, JWT)
 ├── .env                       # Environment variables
 ├── package.json               # Backend dependencies
 ├── client/package.json        # Frontend dependencies
