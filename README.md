@@ -5,7 +5,7 @@ Ethereal Apparel is a modern and scalable e-commerce website built using the MER
 ![ethereal](screenshot/1.png)
 
 
-## Technologies Used
+## Technologies Used:
 
 -**Frontend:** React.js
 
@@ -22,11 +22,11 @@ Ethereal Apparel is a modern and scalable e-commerce website built using the MER
 -**CI/CD:** itHub Actions for automated workflows
 
 
-## Project Overview
+## Project Overview:
 
 This interactive and responsive e-commerce platform provides users with a seamless shopping experience. It offers authentication, a dynamic product catalog, a shopping cart, and a seemless payment and checkout process by stripe. All powered by a MongoDB backend. The website is fully deployed and functional, supporting various user operations like browsing, adding products to the cart, and managing user authentication securely with JWT.
 
-## Key Features
+## Key Features:
 
 -**Interactive UI:** Engaging and user-friendly interface that allows users to browse products, add them to the cart, and manage their profile.
 
@@ -42,11 +42,7 @@ This interactive and responsive e-commerce platform provides users with a seamle
 
 -**Deployment:** Hosted on Render, ensuring high availability and scalability for all users.
 
-
-
-## Deployed Application
-
-## Live Demo
+## Live Demo:
 [Click here to view the live project](https://ecommerce-website-frontend-fnfh.onrender.com)
 
 ## backend deployment: 
@@ -54,7 +50,7 @@ This interactive and responsive e-commerce platform provides users with a seamle
 [Click here to view ](https://ecommerce-website-backend-2sgz.onrender.com)
 
 
-## Screenshots
+## Screenshots:
 
 ![ethereal](screenshot/2.png)
 ![ethereal](screenshot/3.png)
@@ -63,7 +59,7 @@ This interactive and responsive e-commerce platform provides users with a seamle
 ![ethereal](screenshot/6.png)
 ![ethereal](screenshot/7.png)
 
-## Project Structure
+## Project Structure:
 
 ```
 ethereal-apparel/
@@ -85,7 +81,7 @@ ethereal-apparel/
 └── README.md                  # Project overview
 
 ```
-## Contributing
+## Contributing:
 
 -Fork the repository.
 
@@ -95,10 +91,10 @@ ethereal-apparel/
 
 -Open a pull request.
 
-## License
+## License:
 
 This project is licensed under the MIT License.
 
-## Contact
+## Contact:
 
 For any inquiries, please reach out via email at sababa.dev@ethereal.com
