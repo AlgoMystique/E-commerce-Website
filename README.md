@@ -4,43 +4,45 @@ Ethereal Apparel is a modern and scalable e-commerce website built using the MER
 
 ![ethereal](screenshot/1.png)
 
+
+## Technologies Used
+
+-**Frontend:** React.js
+
+-**Backend:** Node.js, Express.js
+
+-**Database:** MongoDB with Mongoose ODM
+
+-**Authentication:** JWT (JSON Web Tokens)
+
+-**Deployment:** Render for full-stack deployment
+
+-**Version Control:** GitHub for source code management
+
+-**CI/CD:** itHub Actions for automated workflows
+
+
 ## Project Overview
 
 This interactive and responsive e-commerce platform provides users with a seamless shopping experience. It offers authentication, a dynamic product catalog, a shopping cart, and a seemless payment and checkout process by stripe. All powered by a MongoDB backend. The website is fully deployed and functional, supporting various user operations like browsing, adding products to the cart, and managing user authentication securely with JWT.
 
 ## Key Features
 
-Interactive UI: Engaging and user-friendly interface that allows users to browse products, add them to the cart, and manage their profile.
+-**Interactive UI:** Engaging and user-friendly interface that allows users to browse products, add them to the cart, and manage their profile.
 
-User Authentication: Users can register and log in with secure JWT authentication to personalize their shopping experience.
+-**User Authentication:** Users can register and log in with secure JWT authentication to personalize their shopping experience.
 
-Product Management: View and filter products whilst fetching real-time data from the MongoDB database.
+-**Product Management:** View and filter products whilst fetching real-time data from the MongoDB database.
 
-Shopping Cart: Users can add and remove products to/from their cart with instant updates.
+-**Shopping Cart:** Users can add and remove products to/from their cart with instant updates.
 
-Responsive Design: Optimized for various screen sizes using Tailwind CSS, offering a mobile-first, responsive layout.
+-**Responsive Design:** Optimized for various screen sizes using Tailwind CSS, offering a mobile-first, responsive layout.
 
-Image Hosting with Cloudinary: Product images are uploaded and served via Cloudinary, providing fast and responsive image delivery.
+-**Image Hosting with Cloudinary:** Product images are uploaded and served via Cloudinary, providing fast and responsive image delivery.
 
-Deployment: Hosted on Render, ensuring high availability and scalability for all users.
+-**Deployment:** Hosted on Render, ensuring high availability and scalability for all users.
 
-## Technologies Used
 
-Frontend: React.js
-
-Backend: Node.js, Express.js
-
-Database: MongoDB with Mongoose ODM
-
-Authentication: JWT (JSON Web Tokens)
-
-Deployment: Render for full-stack deployment
-
-Version Control: GitHub for source code management
-
-CI/CD: GitHub Actions for automated workflows
-
-Responsive Design: 
 
 ## Deployed Application
 
@@ -83,8 +85,20 @@ ethereal-apparel/
 └── README.md                  # Project overview
 
 ```
+## Contributing
+
+-Fork the repository.
+
+-Create a new branch (feature-branch-name).
+
+-Commit your changes.
+
+-Open a pull request.
 
 ## License
 
 This project is licensed under the MIT License.
 
+## Contact
+
+For any inquiries, please reach out via email at sababa.dev@ethereal.com
