@@ -44,7 +44,13 @@ Responsive Design:
 
 ## Deployed Application
 
-Visit the live version of the website at:
+## Live Demo
+[Click here to view the live project](https://ecommerce-website-frontend-fnfh.onrender.com)
+
+## backend deployment: 
+
+[Click here to view ](https://ecommerce-website-backend-2sgz.onrender.com)
+
 
 ## Screenshots
 
