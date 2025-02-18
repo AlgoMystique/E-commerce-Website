@@ -4,11 +4,8 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-      "start": "cd server && npm run start",
-      "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm run dev\"",
-      "install": "cd server && npm i && cd ../client && npm i",
-      "build": "concurrently \"cd server && npm run build\" \"cd client && npm run build\"",
-      "render-build":"npm install && npm run build"
+    "start": "node server.js",
+    "server": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
@@ -23,7 +20,6 @@
     "mongoose": "^8.9.2",
     "multer": "^1.4.5-lts.1",
     "nodemon": "^3.1.9",
-    "razorpay": "^2.9.5",
     "stripe": "^17.5.0",
     "validator": "^13.12.0"
   }
